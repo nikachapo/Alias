@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Words Game</string>
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands"></string>
+    <string name="time">Time</string>
+    <string name="team2">Team2</string>
+    <string name="team1">Team1</string>
+    <string name="play">Play</string>
+    <string name="words">Words</string>
+    <string name="start">start</string>
+    <string name="_0">0</string>\
+    <string-array name="times">
+        <item>30</item>
+        <item>60</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="scores">
+        <item>20</item>
+        <item>30</item>
+        <item>50</item>
+    </string-array>
+</resources>
