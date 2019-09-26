@@ -1,16 +1,13 @@
 package com.example.nick.wordsgame;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class GameProperties {
     private static String team1Name;
     private static String team2Name;
     private static String time;
     private static String score;
-
-    static String [] words= {"სკამი","მაგიდა","ჭერი","დანა","ღრუბელი","წვიმა"};
-
-
 
 
     static String getTeam1Name() {

@@ -125,6 +125,7 @@
         android:layout_marginBottom="8dp"
         android:background="@drawable/button_style"
         android:text="@string/play"
+        android:textAllCaps="false"
         android:textColor="@android:color/white"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
